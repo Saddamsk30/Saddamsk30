@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer focused on bui
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
