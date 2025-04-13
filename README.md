@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate Frontend Developer focused on bui
 
 - **Name:** Saddam Shaikh  
 - **Role:** Frontend Developer  
-- **Experience:** Building responsive websites and React applications  
+- **Experience:** Building responsive websites and React,Angular applications  
 - **Tech Stack:** HTML, CSS, SCSS, JavaScript, React.js, Angular, Git  
-- **Currently Learning:** TypeScript and Next.js  
+- **Currently Learning:** TypeScript and Node.js  
 - **Goal:** To create scalable and high-performance web applications
 
 ---
