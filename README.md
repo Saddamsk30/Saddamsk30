@@ -1,4 +1,4 @@
-# Hi there, I'm Saddam Shaikh! 
+<h1 align="center">Hi 👋, I'm Saddam Shaikh</h1>
 
 ### Frontend Developer | Passionate Coder | Lifelong Learner
 
