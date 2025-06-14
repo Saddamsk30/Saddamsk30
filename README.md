@@ -54,7 +54,7 @@ Here are some of my featured projects:
 
 - [LinkedIn](https://www.linkedin.com/in/saddam-shaikh30/)
 - Email: shaikhsaddam30@gmail.com
-- Portfolio: Coming Soon!
+- Portfolio: https://portfolio-saddamsk30s-projects.vercel.app/about
 
 ---
 
