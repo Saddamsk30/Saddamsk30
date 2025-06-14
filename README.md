@@ -54,8 +54,7 @@ Here are some of my featured projects:
 
 - [LinkedIn](https://www.linkedin.com/in/saddam-shaikh30/)
 - Email: shaikhsaddam30@gmail.com
-- Portfolio: https://portfolio-saddamsk30s-projects.vercel.app/about
-
+- Portfolio:https://portfolio-saddamsk30s-projects.vercel.app/
 ---
 
 > “Always improving, one line of code at a time.”
